@@ -1,0 +1,68 @@
+body{
+	background-color:#60090A
+	}
+
+
+h1 {
+	color:#E1CECF; 
+	font-size: 16px;
+	font-family: Helvetica, Arial, sans-serif;
+	background-color: #A45152 
+	}
+h2 {
+	color: #E1CECF;
+	font-size: 24px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	background-color: #830002 
+	}
+h3 { 
+	font-size:16px;
+	color:#FFE5E6;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+p {
+	color: #DCDCDC;
+	font-size: 16px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	background-color: #560708;
+	
+}
+
+p.country {
+			color: #DCDCDC;
+			font-size: 16px;
+			font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+			background-color: #560708;
+			text-align: center;
+			
+}
+
+h4 {
+	color: #E1CECF;
+	font-size: 18px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	}
+li {
+	color: #DCDCDC;
+	font-size: 16px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+th {
+	color: #DCDCDC;
+	font-size: 16px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+td {
+	color: #DCDCDC;
+	font-size: 16px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+	
+
+
+
