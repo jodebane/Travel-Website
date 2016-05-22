@@ -1,0 +1,101 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>China</title>
+<link href="CSS1.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<h2>
+China
+</h2>
+<h3>
+The most populous country on Earth and the growing economic giant of East Asia, China's return to prominence on the world stage has been hard to ignore. A traveler to China will get a glimpse of a society that is rapidly changing in many ways, and massively diverse in its customs, dialects, architecture, and food.
+</h3>
+<h4>Pros and Cons of Travel</h4>
+<table width="800" border="1">
+  <tbody>
+    <tr>
+      <td><strong>Pros </strong></td>
+      <td><strong>Cons </strong></td>
+    </tr>
+    <tr>
+      <td> <p>
+      
+      <li>The Incredible diveristy and size of the country, with massive regional variations in dialects, architecture, food, and customs</li>
+      <li>The major historic sites, like the Forbidden City and the Terracotta Army</li>
+	  <li>The delicious and varied cuisine</li>
+      <li>The gargantuan, futuristic cities with great food scenes, nightlife, shopping, and new transit systems </li>
+      <li>The fast, new bullet train system, which makes it easy to go long distances quickly</li>
+
+
+      </p> </td>
+      <td><p>
+      
+      <li>The fact that many of the smaller historic sites and old towns have been bulldozed</li>
+      <li>The pollution in the major cities</li>
+	  <li>The crowds at big sites</li>
+      <li>The health risks, like non-drinkable tap water and unsafe street food </li>
+      <li>English-speakers will find the langauge barrier very challenging</li>
+
+
+      </p></td>
+    </tr>
+  </tbody>
+</table>
+<h4>History</h4>
+
+<p>Chinese history is long and complex, and while it may appear to be a uniform pattern of dynasty-dynasty-division-dynasty, the ideas and cultural changes that underly this historical pattern have been incredibly varied and complex.</p>
+
+<h4>Culture</h4>
+
+<p>While the fact that 92% of Chinese are ethnic Han Chinese may make the society appear uniform to a westerner, the reality is anything but. Within the han ethnic group, the customs and culture vary heavily from region to region. The mosaic of other ethnic groups has also influenced the culture of the regions, even if they don't make up large percentages of the population. That being said, there is some sense of unity, and there are ideas that are fundamental to Chinese culture as a whole.</p>
+<p><strong>Religion and Spiritual Practice</strong></p>
+<p>Chinese religious and philosophical ideas, such as Chinese Buddhism, Taoism, and Confucianism, have influenced the national identity in various ways throughout the ages. Confucianism teaches the value of societal harmony, and stresses the importance that one knows ones place within the social hierarchy. Taoism is centred on the enigmatic concept of the Tao, an all-knowing but chaotic "force" that provides balance of Yin and Yang, various contrasting ideas....</p>
+<p><strong>Visual Arts</strong></p>
+<p>Chinese religious and philosophical ideas, such as Chinese Buddhism, Taoism, and Confucianism, have influenced the national identity in various ways throughout the ages. Confucianism teaches the value of societal harmony, and stresses the importance that one knows ones place within the social hierarchy. Taoism is centred on the enigmatic concept of the Tao, an all-knowing but chaotic "force" that provides balance of Yin and Yang, various contrasting ideas.</p>
+<h1>
+The Northeast
+</h1>
+<p>A cold, historically industrial region little visited by westerners, this is the homeland of the Manchu, the ethnic group which ruled China during the Qing dynasty period. Because of its location and borders, the region has heavy Russian and Korean cultural influences.</p>
+<h1>
+Beijing and the Surrounding Provinces
+</h1>
+<p>Since the Yuan Dynasty in the 13th century, this has been the political heartland of China. The region has an incredible variety of iconic sights related to Chinese history, and between the boulevards of Beijing lie the traditional Hutongs, which give travelers a glimpse of "Old China".</p>
+<h1>
+Shanghai and the Eastern Provinces
+</h1>
+<p>
+Historically one of the wealthiest regions of Asia, this region suffered greatly in the mid 20th century due to war and poverty, but it has modernized rapidly since the 1990s. Shanghai has historically been the most westernized city in mainland China, but its surrounding regions have towns with the architecture of the textbook "Old China".
+</p>
+<h1>
+Inland Provinces - Anhui, Hubei, Jiangxi, Hunan, and Henan
+</h1>
+<p>The central area of Han China. While these provinces are among the least affluent provinces of Han China today, they are home to incredible historic sites and areas of natural beauty.  </p>
+<h1>
+Guangzhou and the Southern Provinces
+</h1>
+<p>
+South of major mountain ranges and with its own unique languages and dialects, this region is a culturally distinct area from the Mandarin-speaking parts of China. The area has historically been very outward looking and trade-oriented. Today, it is the ancestral homeland of many Chinese in the western world.
+</p>
+<h1>
+The Southwest 
+</h1>
+<p>
+The most ethnically diverse region of China, this is the region where East Asian culture meets Southeast Asian culture. It is also home to many of China's most beuatiful natural landscapes, from the rugged rainforests of Southern Yunnan to the distinct Karst peaks of Guangxi.
+</p>
+<h1>
+Xi'an and the Surrounding Provinces
+</h1>
+<p>In ancient times, this region was where Chinese civilization truly established itself - culturally, politically, and economically. The large city of Xi'an was also the beginning of the silk road, the great trading route which connected East Asia with the Middle East and the Western World. </p>
+<h1>
+The Northwest
+</h1>
+<h1>
+Tibet
+</h1>
+
+</body>
+</html>
