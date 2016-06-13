@@ -1,0 +1,93 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body {
+	background-color:#C1272A;
+}
+#TableContents{
+	width: 30%;
+	background-color: #7E0608;
+	color: #FFFFFF;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-size: 14px;
+	float: right;
+
+	
+}
+p { 
+
+font-size: 14px;
+font-family: Verdana, sans-serif;
+
+}
+
+#ChinaHead{
+	background-color: #AF1517;
+	column-count: 1;
+	text-align:center;
+	font-size: 36px;
+	color: #F7EAEA;
+	font-weight:bold;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+
+}
+h3 {
+	
+	font-size: 32px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color: #FFFFFF;
+	
+}
+#Column1 {
+	column-count: 1;
+	background-color: #A15354;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 18px;
+	color: #FFFFFF;
+	width: 25%;
+	height: 5000px;
+	float: left;
+}
+
+#Column2 {
+	
+	
+	
+}
+
+a {
+	color: #F9F4B6;
+	}
+	
+h1{
+	font-size: 20px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	background-color: #AA0002;
+	
+}
+#AsiaNavHead{
+	font-size: 14px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	background-color: #8C1012;
+	color: #FFFFFF;
+	text-align: center;
+	height: 25px;
+}
+#Column2 {
+	min-height: 1000px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 14px;
+	color: #FFFFFF;
+	background-color: #A40B0D;
+	width: 75%;
+	float: left;
+}
+	
+#Footer {
+	color: #FFFFFF;
+	background-color:#9A181A;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	}
+
